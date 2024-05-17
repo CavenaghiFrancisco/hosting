@@ -718,6 +718,9 @@ span{
         height: auto;
         margin-bottom: 4rem;
     }
+    .skill-infofront img{
+        width: 70px;
+    }
     
 }  
 @media(max-width:991px){  
